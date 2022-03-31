@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "b54-project",
+  "private_key_id": "21380ad1e2aaf13f1e0d21fda44afbc55b1183ac",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCPwh5vbTNXQThe\n730BGcBJH4ne61nAcPcc5ZX6CDatM0/P7YIN3rYNLdUxjmlkMQqsMuYNCNOJRchS\n1hDnw10iFWTo0AO5blPFlFSyiC13GwqcmUwZKewase5aO/80ACO93tfS2HYTmnkD\nX1jeLccNmV4fScQOUwPT6Czd1sK4mEoB0H5U7IwhJy1gUQNR7JYKA21g6siyYZAU\n9iJRQqJ8ZVfYjp9VrffwCkrAUNaQqcUai1IT5CyUIZGENLAQKZjc2Yfyrh5zJa80\njwsTh4XWz89nzzu3tMDKB7b6hwxc0jqcKcipc2hOKYomBnRWqKURQuXfOL80IIMX\nP4W3YqfhAgMBAAECggEAED/NIGOrvrRaypJP4yC1xR4pP5cDI1cxe2TxBZzJj1zC\nK/rI7Ufr9IPmee5Ct+Y6Mlojejwx6u2GFeTn7sZ8n7Zi3FTs4tgXZHkedLqjRvf5\nxFcojJyaOS89BZqL/2T3pUXLx+ObPx6CCLFNknmCqyUXiDpWjJbyExEGh0G361Ty\nAcWN22+SRDv0Au1RAXxK1ZeP7w59Nt4wNTOmWi+Pf7dsWIvbkkCu1RrtSZCqimf9\nIkUdlFJrvhMxUoTdFdckHZswyiLSvcxL18bOt8d0d+KEtAIdT2vzlZCDai2K5SW1\n9Bzrpp7sx+b8exMdN0jn5XjRMZnQOezVzI5DmAJWtQKBgQDD8y1B5K8ZYLaUVLTD\ndGO0GqespfrM7oQAeNP3AxsS5NBePFNISTzVwZYMr2WXky62Lv1umusxu2veYfXV\nAIkhdFwJJpy7ifHkbTHvpj2ykGXbJEZqRI4pK+Bkzhgpinnwq8gC8MAMalUCAFyk\nfJPAN6G6iLffut2d44khBuidNQKBgQC70Fx9lwr+n/teA93X+O3gh95DAuQEUsAj\n+RDhI9c9pQK0VsnNkBVX7VZK7A4sHDGGd0qKGRlTBb3Ztf5ZTfHwe85xfVBmMs1A\noQiCI98pLyOmk1p23vj5lx4abtJBlTdO1/8mnPk43vliPjsnjlNM1y+R8dNuKDYK\nXVyfaXPxfQKBgQCba/DDyS2RhYKMGLvgJBtJKbNBX82UasNM1Inb7Ry2WcNkW5j7\nRwv3yDrKCP0dwuJUIuVlq39NzQj8NNsWffxHCtJNd9Dtd7bjpjDrkwJw9dO0hAtO\nEt5njaPIkSfdGzcpTDezDV5m+pg+pCbXWPCgj/+5wuOFk+Rgba/BAIfU2QKBgH/h\nFEjTIkJTDeVqvo+CR/28pUJ9YmHrMjaMLMkPDUxE4X2HJmrX8yBmUn47Ej9IhxQm\nf1NeWZbk7uqg92k5IEX9FojBqY+cgZLC0rdB034IQb72z/7mPSI8mdunn3PWNM1z\nVqCk+zCU6brR4pdBWkiUsCgwPyTfLkSKYzmLpM1FAoGAGNJ0PTZWbQk7PlBOzH4G\noxSlhSr2OLBQJMOTEGimI+Fo24dbRaNrD4M/l511rQcQ2ZsGKQQ7bnDGaCqVQgQe\nTwuhkIcdq/Aon7f45ma4fiTGqd2ZycxWu/HtXFWe9h1OKQliyyu8owHPFsASuY+L\nXsHkVwtMLljY1MYkIW3EKs4=\n-----END PRIVATE KEY-----\n",
+  "client_email": "space-titanic@b54-project.iam.gserviceaccount.com",
+  "client_id": "116220005026362856889",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/space-titanic%40b54-project.iam.gserviceaccount.com"
+}
